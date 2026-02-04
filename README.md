@@ -142,14 +142,14 @@ Supply chain and delivery operations are consistent and well-managed.
 
 ## 📷 Dashboard Preview
 
-<img width="602" height="381" alt="image" src="https://github.com/user-attachments/assets/26bfdd81-1355-45fb-9983-1f26ea1360af" />
+<img width="930" height="524" alt="image" src="https://github.com/user-attachments/assets/25507c1c-b1b9-495f-b208-7a861838d7b0" />
 
 
 ---
 
 ## 🚀 Conclusion
 
-This project demonstrates how **Power BI transforms raw sales data into actionable insights**, enabling better decision-making, operational efficiency, and customer-centric growth in a competitive food delivery environment.
+This project demonstrates how **Excel transforms raw sales data into actionable insights**, enabling better decision-making, operational efficiency, and customer-centric growth in a competitive food delivery environment.
 
 
 ### 🚀 Conclusion
