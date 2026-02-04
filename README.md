@@ -23,8 +23,7 @@ The objective is to derive **actionable insights** that help optimize revenue gr
 
 ## 🛠 Tools & Technologies
 
-* **Power BI** – Data Modeling, DAX, KPI Tracking, Interactive Dashboards
-* **Excel / CSV** – Data Source
+* **Excel** – Data Source, KPI Tracking, Interactive Dashboards
 
 ---
 
